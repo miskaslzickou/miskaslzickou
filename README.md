@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miskaslzickou
-- 👀 I’m interested in Python,Java,Javascript,Lua,C++,C#
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Python,Java,Javascript,Lua,CSS and HTML,C#,Javascript
+- 🌱 I’m currently learning Lua and Fivem development
 - 📫 How to reach me ilikemoonm@gmail.com 
 
 <!---
